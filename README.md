@@ -4,4 +4,4 @@ Twitter comment sentiment classification into Hate/Non-Hate. I have used GloVe f
 
 # Instructions to run
 
-Create a virtual envirnoment and install all the packages in requirements.txt. Run all the cells in the notebook to load, preprocess, train and save the model. The best model will be saved and loaded from the "models/" directory. Run the "predictor()" cell you test the classifer on your own text.
+Clone this repo and install all the packages in requirements.txt. Run all the cells in the notebook to load, preprocess, train and save the model. The best model will be saved and loaded from the "models/" directory. Run the "predictor()" cell you test the classifer on your own text.
